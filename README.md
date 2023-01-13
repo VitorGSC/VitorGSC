@@ -26,7 +26,7 @@
 
  <div align="center">
   <a href = "mailto:vitorgsc2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://t.me/VitorG_28"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href = "https://t.me/VitorGSC"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/VitorGSC/count.svg" /></p>
